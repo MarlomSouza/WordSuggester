@@ -1,0 +1,16 @@
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.exe
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.deps.json
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.runtimeconfig.json
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.runtimeconfig.dev.json
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.dll
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\ref\WordSuggestion.dll
+C:\Pessoal\Codigos\WordSuggestion\bin\Debug\net5.0\WordSuggestion.pdb
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.csproj.AssemblyReference.cache
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.AssemblyInfoInputs.cache
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.AssemblyInfo.cs
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.csproj.CoreCompileInputs.cache
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.dll
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\ref\WordSuggestion.dll
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.pdb
+C:\Pessoal\Codigos\WordSuggestion\obj\Debug\net5.0\WordSuggestion.genruntimeconfig.cache

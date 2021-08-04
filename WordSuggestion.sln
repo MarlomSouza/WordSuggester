@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSuggestion", "WordSuggestion.csproj", "{B6CA09EF-3808-4EBD-BE36-BF5B5C720ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CA09EF-3808-4EBD-BE36-BF5B5C720ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CA09EF-3808-4EBD-BE36-BF5B5C720ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CA09EF-3808-4EBD-BE36-BF5B5C720ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CA09EF-3808-4EBD-BE36-BF5B5C720ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C527641F-CE5D-48A5-8DC8-5B18D05C69EC}
+	EndGlobalSection
+EndGlobal
